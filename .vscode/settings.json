@@ -1,0 +1,7 @@
+{
+  "standard.run": "onType",
+  "standard.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "standard.enable": true,
+  "javascript.validate.enable": false
+}
