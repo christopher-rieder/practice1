@@ -1,5 +1,5 @@
 {
-  "standard.run": "onSave",
+  "standard.run": "onType",
   "standard.autoFixOnSave": true,
   "editor.formatOnSave": true,
   "standard.enable": true,
