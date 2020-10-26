@@ -27,7 +27,7 @@ const TaskCardLecturaProps = {
   }),
   progress: 0,
   state: taskCardLecturaStates.NUEVA,
-  tags: ['lengua']
+  tags: ['Lengua', 'Coso']
 }
 
 export const TaskCardLecturaNormal = Template.bind({})
